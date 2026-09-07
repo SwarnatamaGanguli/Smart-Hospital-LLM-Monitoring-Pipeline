@@ -1,4 +1,4 @@
-# Smart Hospital LLM — Adaptive Patient Monitoring
+# Smart Hospital LLM Monitoring Pipeline
 
 An LLM-enhanced patient monitoring system that watches vital signs, flags
 concerning patterns using deterministic rules, and uses a locally-run
