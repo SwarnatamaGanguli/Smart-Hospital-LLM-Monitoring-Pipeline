@@ -1,5 +1,8 @@
 # Smart Hospital LLM Monitoring Pipeline
 
+<img width="1453" height="814" alt="smarthospi_LLM_1" src="https://github.com/user-attachments/assets/f63ea533-d9ef-4209-939a-d02293b94f89" />
+
+
 An LLM-enhanced patient monitoring system that watches vital signs, flags
 concerning patterns using deterministic rules, and uses a locally-run
 language model to explain those patterns in plain language for clinical
@@ -10,6 +13,8 @@ This is a research/learning prototype built on synthetic data. It is not a
 medical device and does not replace clinical judgment.
 
 ---
+
+<img width="1472" height="811" alt="smart_hosp_image2" src="https://github.com/user-attachments/assets/e4450bc5-451f-46fa-9a26-84b074454b24" />
 
 ## What This Project Does
 
